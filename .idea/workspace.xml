@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30c0019c-3f25-47c3-a2ed-46afbd25bd2d" name="Default Changelist" comment="" />
+    <list default="true" id="30c0019c-3f25-47c3-a2ed-46afbd25bd2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dw1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dw2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +21,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dElZbSdv6D74GC7AU6AerCc6cq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -53,6 +66,7 @@
       <workItem from="1593609815261" duration="150000" />
       <workItem from="1593613143083" duration="718000" />
       <workItem from="1593613967476" duration="1157000" />
+      <workItem from="1593622393370" duration="854000" />
     </task>
     <servers />
   </component>
@@ -64,9 +78,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="83" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593613456883" />
-    <state x="303" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1593616270558">
+    <state x="303" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1593622396887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="303" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593616270558" />
+    <state x="303" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593622396887" />
   </component>
 </project>
